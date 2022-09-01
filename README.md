@@ -14,10 +14,3 @@ SKill SET
 Portfolio
 
 <a href="https://abrasive-manatee-4b6.notion.site/8c161564af794cc6b55069c453663fc4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
-  
-                                                                
-
-　　　　　　　　　
-                
-              
