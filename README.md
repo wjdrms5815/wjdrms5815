@@ -1,9 +1,7 @@
-### Hi there 👋
+# Yuk Jeong Geun
 
-<!--
-**wjdrms5815/wjdrms5815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧾 Skill Set
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-
+
+## Plugins
+
+
+[![N|Notion](https://cldup.com/dTxpPi9lDf.thumb.png)](https://abrasive-manatee-4b6.notion.site/8c161564af794cc6b55069c453663fc4)
